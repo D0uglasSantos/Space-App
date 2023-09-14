@@ -1,4 +1,4 @@
-<h1>Projeto Pessoal de Curso de React - Space App: Uma galeria de fotos do espaço!</h1>
+<h1>Projeto Pessoal de Curso de React - <br/>Space App: Uma galeria de fotos do espaço!</h1>
 
 <h4>React + Vite</h4>
 
