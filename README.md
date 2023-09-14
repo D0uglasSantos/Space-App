@@ -1,6 +1,6 @@
-#Projeto Pessoal de Curso de React - Space App: Uma galeria de fotos do espaço!
+<h1>Projeto Pessoal de Curso de React - Space App: Uma galeria de fotos do espaço!</h1>
 
-# React + Vite
+<h4>React + Vite</h4>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
